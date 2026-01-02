@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-  Me chamo Guilherme Carissio, tenho 25 anos e sou natural de São José dos Campos, Concluí o ensino médio na E.E João Cursino. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio de São José dos Campos. Gosto de tecnologia e compartilho meu conhecimento através dos meus projetos em equipe e projetos solo.
+  Me chamo Guilherme Carissio, tenho 25 anos e sou natural de São José dos Campos, Concluí o ensino médio na E.E João Cursino. e concluí minha graduação em Análise e Desenvolvimento de Sistemas na Estácio de São José dos Campos. Gosto de tecnologia e compartilho meu conhecimento através dos meus projetos em equipe e projetos solo.
 
 <p align="left">
     <a href="https://github.com/GuilhermeCarissio?tab=repositories&sort=stargazers">
